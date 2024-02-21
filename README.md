@@ -8,33 +8,33 @@ The Travel Map Application is a dynamic, user-friendly platform designed for tra
 
 **Interactive Travel Map**
 
-    Personalized Pins: Users can mark their visited locations with customizable pins on the map. Each pin can represent a place of interest, including but not limited to restaurants, parks, museums, and hotels.
+    1. Personalized Pins: Users can mark their visited locations with customizable pins on the map. Each pin can represent a place of interest, including but not limited to restaurants, parks, museums, and hotels.
     
-    Descriptions and Stories: With each pin, users have the option to add detailed descriptions or stories about their experience. This feature allows for a more personal touch, making each pin a unique story to share.
+    2. Descriptions and Stories: With each pin, users have the option to add detailed descriptions or stories about their experience. This feature allows for a more personal touch, making each pin a unique story to share.
     
-    Ratings: Users can leave a rating for each place, helping others gauge the overall experience. Ratings are designed to provide quick, at-a-glance feedback for fellow travelers.
+    3. Ratings: Users can leave a rating for each place, helping others gauge the overall experience. Ratings are designed to provide quick, at-a-glance feedback for fellow travelers.
 
 **Social Features**
 
-    Share with Family and Friends: Our platform encourages users to share their travel maps with family and friends. This sharing promotes mutual exploration and makes it easier to recommend places to each other.
+    1. Share with Family and Friends: Our platform encourages users to share their travel maps with family and friends. This sharing promotes mutual exploration and makes it easier to recommend places to each other.
     
-    Explore Other Maps: Users can explore maps created by other travelers, providing inspiration for future trips and adventures. Discovering new locations through the experiences of others has never been easier.
+    2. Explore Other Maps: Users can explore maps created by other travelers, providing inspiration for future trips and adventures. Discovering new locations through the experiences of others has never been easier.
 
 **Security and Privacy**
 
-    Custom Login System: We have implemented a custom login and registration system from scratch, ensuring that your data is securely managed without the reliance on third-party services like Auth0.
+    1. Custom Login System: We have implemented a custom login and registration system from scratch, ensuring that your data is securely managed without the reliance on third-party services like Auth0.
     
-    Privacy Controls: Users have full control over who can view their maps and personal information, ensuring privacy and security in their travel sharing experience.
+    2. Privacy Controls: Users have full control over who can view their maps and personal information, ensuring privacy and security in their travel sharing experience.
 
 **Getting Started**
 
 To get started with the Travel Map Application, follow these simple steps:
 
-    Register: Sign up for an account using our secure registration form. You'll need to provide a username, email address, and password.
+    1. Register: Sign up for an account using our secure registration form. You'll need to provide a username, email address, and password.
     
-    Create Your First Map: Once registered, you can immediately start creating your travel map by adding pins to your visited locations.
+    2. Create Your First Map: Once registered, you can immediately start creating your travel map by adding pins to your visited locations.
     
-    Customize and Share: Add descriptions, stories, and ratings to your pins. When you're ready, share your map with friends and family or explore maps created by other users for travel inspiration.
+    3. Customize and Share: Add descriptions, stories, and ratings to your pins. When you're ready, share your map with friends and family or explore maps created by other users for travel inspiration.
 
 **Contributing**
 
