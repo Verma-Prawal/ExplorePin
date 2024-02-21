@@ -5,10 +5,13 @@
 The Travel Map Application is a dynamic, user-friendly platform designed for travelers who wish to document, share, and explore personal travel experiences. This application allows users to pin their favorite locations on a map, ranging from hidden gems in bustling cities to serene landscapes in remote areas. Whether it's a memorable cafe, a breathtaking hiking trail, or a historic landmark, our platform makes it easy to keep track of your travel adventures.
 
 **Features**
+
 **Interactive Travel Map**
 
     Personalized Pins: Users can mark their visited locations with customizable pins on the map. Each pin can represent a place of interest, including but not limited to restaurants, parks, museums, and hotels.
+    
     Descriptions and Stories: With each pin, users have the option to add detailed descriptions or stories about their experience. This feature allows for a more personal touch, making each pin a unique story to share.
+    
     Ratings: Users can leave a rating for each place, helping others gauge the overall experience. Ratings are designed to provide quick, at-a-glance feedback for fellow travelers.
 
 **Social Features**
